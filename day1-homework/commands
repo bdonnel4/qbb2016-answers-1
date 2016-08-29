@@ -1,0 +1,6 @@
+fastqc -o QCOutput SRR072893.fastq.gz
+hisat2 -p 4 -x ~/data/BDGP6/BDGP6 -U SRR072893.fastq.gz -S SRR072893_sam
+samtools sort SRR072893_sam -O bam > SRR072893.bam
+samtools index SRR072893.bam > indexbam
+stringtie SRR072893.bam -G ~/data/BDGP6/BDGP6.Ensembl.85.gtf -p 4 -o SRR072893_gtf -e -B
+
