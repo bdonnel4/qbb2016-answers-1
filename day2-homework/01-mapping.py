@@ -1,0 +1,18 @@
+#!/usr/bin/env python
+
+import sys
+
+uniprot = {}
+
+for line in sys.stdin:
+    if "DROME" in line:
+        fields = line.rstrip( "\r\n").split()
+        swiss_AC = fields[-2]
+        flybase_AC = fields[-1]
+        uniprot[swiss_AC] = flybase_AC
+        
+#for i in uniprot.keys()[:100]:
+for i in uniprot:
+    print i, "\t\t", uniprot[i]
+
+
