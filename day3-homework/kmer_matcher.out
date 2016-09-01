@@ -1,0 +1,1000 @@
+Identifier:  CTAATCGATTC
+Target_name:  [['FBtr0301452']]
+Target_start:  [351]
+Query_start:  [38314] 
+
+Identifier:  CATTTCGCAAG
+Target_name:  [['FBtr0078154', 'FBtr0100379', 'FBtr0078153', 'FBtr0078155']]
+Target_start:  [620, 620, 601, 601]
+Query_start:  [87459] 
+
+Identifier:  TGCTGCGCCGC
+Target_name:  [['FBtr0078047', 'FBtr0330673', 'FBtr0078049', 'FBtr0330674', 'FBtr0078048', 'FBtr0078050']]
+Target_start:  [2106, 1923, 2106, 2057, 2057, 2057]
+Query_start:  [24854] 
+
+Identifier:  AGTACCATCGC
+Target_name:  [['FBtr0336969']]
+Target_start:  [2321]
+Query_start:  [4161] 
+
+Identifier:  GGCCATCCTGA
+Target_name:  [['FBtr0336969']]
+Target_start:  [2433]
+Query_start:  [4273] 
+
+Identifier:  TTTAAAAAAGA
+Target_name:  [['FBtr0330650']]
+Target_start:  [564]
+Query_start:  [97625] 
+
+Identifier:  AATCGAAAACT
+Target_name:  [['FBtr0331204', 'FBtr0078093']]
+Target_start:  [1068, 1212]
+Query_start:  [83134] 
+
+Identifier:  AGTGGTACCGA
+Target_name:  [['FBtr0078076', 'FBtr0332341', 'FBtr0332342', 'FBtr0345577']]
+Target_start:  [1157, 1134, 1221, 1624]
+Query_start:  [3349] 
+
+Identifier:  TTTGAATTATT
+Target_name:  [['FBtr0078013', 'FBtr0078014', 'FBtr0078015']]
+Target_start:  [3408, 3291, 3256]
+Query_start:  [13904] 
+
+Identifier:  CAAGGAAACCA
+Target_name:  [['FBtr0336969']]
+Target_start:  [1563]
+Query_start:  [3297] 
+
+Identifier:  AAAGCAGCAGC
+Target_name:  [['FBtr0336985', 'FBtr0344014']]
+Target_start:  [392, 4329]
+Query_start:  [28730] 
+
+Identifier:  GTGTGTGTGTA
+Target_name:  [['FBtr0336987']]
+Target_start:  [388]
+Query_start:  [55357] 
+
+Identifier:  GTGTGTGTGTC
+Target_name:  [['FBtr0306539', 'FBtr0306536', 'FBtr0306538', 'FBtr0078100', 'FBtr0306537', 'FBtr0077949', 'FBtr0305064']]
+Target_start:  [547, 434, 157, 434, 183, 290, 290]
+Query_start:  [28355] 
+
+Identifier:  TGCGAACTCAA
+Target_name:  [['FBtr0078064']]
+Target_start:  [573]
+Query_start:  [89408] 
+
+Identifier:  TGTGGCGCAAT
+Target_name:  [['FBtr0078083', 'FBtr0078084', 'FBtr0310030']]
+Target_start:  [676, 1878, 996]
+Query_start:  [36998] 
+
+Identifier:  GATTTCCCCGT
+Target_name:  [['FBtr0309810']]
+Target_start:  [2170]
+Query_start:  [1887] 
+
+Identifier:  GTGTGTGTGTG
+Target_name:  [['FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121', 'FBtr0077949', 'FBtr0077949', 'FBtr0077949', 'FBtr0077949', 'FBtr0077949', 'FBtr0077949', 'FBtr0305064', 'FBtr0305064', 'FBtr0305064', 'FBtr0305064', 'FBtr0305064', 'FBtr0305064']]
+Target_start:  [221, 221, 221, 221, 221, 278, 280, 282, 284, 286, 288, 278, 280, 282, 284, 286, 288]
+Query_start:  [68665] 
+
+Identifier:  CGACCAAATCT
+Target_name:  [['FBtr0078144', 'FBtr0299837', 'FBtr0308253', 'FBtr0308254', 'FBtr0308255']]
+Target_start:  [443, 443, 443, 443, 624]
+Query_start:  [44394] 
+
+Identifier:  AAATACAAATT
+Target_name:  [['FBtr0330674', 'FBtr0078048', 'FBtr0078050']]
+Target_start:  [350, 350, 350]
+Query_start:  [81647] 
+
+Identifier:  AAGGATGCGAA
+Target_name:  [['FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121', 'FBtr0332337', 'FBtr0078123', 'FBtr0330653']]
+Target_start:  [13659, 13742, 16401, 13688, 13655, 13003, 13057, 12551]
+Query_start:  [18605] 
+
+Identifier:  ATTGGATAAAT
+Target_name:  [['FBtr0336985']]
+Target_start:  [689]
+Query_start:  [74391] 
+
+Identifier:  CCCTAATTCCC
+Target_name:  [['FBtr0078164', 'FBtr0309228']]
+Target_start:  [2233, 2272]
+Query_start:  [24517] 
+
+Identifier:  CGGAGAAGCAA
+Target_name:  [['FBtr0078170', 'FBtr0078171', 'FBtr0078166', 'FBtr0078167', 'FBtr0078168', 'FBtr0078169', 'FBtr0306589', 'FBtr0306590', 'FBtr0306591', 'FBtr0306592', 'FBtr0330655']]
+Target_start:  [2116, 2259, 2023, 2098, 2093, 1950, 2183, 2047, 2258, 2396, 2258]
+Query_start:  [69989] 
+
+Identifier:  GCGGCAATACC
+Target_name:  [['FBtr0078009']]
+Target_start:  [710]
+Query_start:  [90122] 
+
+Identifier:  AATTTTACATT
+Target_name:  [['FBtr0078087', 'FBtr0331233']]
+Target_start:  [2576, 2515]
+Query_start:  [9699] 
+
+Identifier:  TGCCAGTTGCA
+Target_name:  [['FBtr0100469']]
+Target_start:  [678]
+Query_start:  [91682] 
+
+Identifier:  ACCCCGACTCC
+Target_name:  [['FBtr0300804', 'FBtr0330648', 'FBtr0330649', 'FBtr0330650']]
+Target_start:  [917, 911, 902, 1939]
+Query_start:  [82577] 
+
+Identifier:  ACTGGCGACAT
+Target_name:  [['FBtr0346526']]
+Target_start:  [1881]
+Query_start:  [12021] 
+
+Identifier:  TGGGGCCAGGA
+Target_name:  [['FBtr0344032', 'FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121', 'FBtr0332337', 'FBtr0078123', 'FBtr0330653', 'FBtr0091489', 'FBtr0332000']]
+Target_start:  [483, 15865, 15948, 18607, 15894, 15861, 15209, 15263, 14757, 4251, 3463]
+Query_start:  [82453] 
+
+Identifier:  AAATTCAATTT
+Target_name:  [['FBtr0345739']]
+Target_start:  [400]
+Query_start:  [94823] 
+
+Identifier:  ACGTAAACGAG
+Target_name:  [['FBtr0333012', 'FBtr0333013', 'FBtr0310027', 'FBtr0078063', 'FBtr0329895']]
+Target_start:  [2905, 4747, 3317, 3387, 3117]
+Query_start:  [28791] 
+
+Identifier:  AGTACCAAGCC
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [1877, 1518]
+Query_start:  [40543] 
+
+Identifier:  CCCACCAGTGG
+Target_name:  [['FBtr0302121', 'FBtr0302120', 'FBtr0302612', 'FBtr0078037', 'FBtr0334763']]
+Target_start:  [1783, 2626, 2158, 1315, 2158]
+Query_start:  [82962] 
+
+Identifier:  CTCGGGCGGAA
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [900, 541]
+Query_start:  [39452] 
+
+Identifier:  CGGACAGCGGA
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [959, 600]
+Query_start:  [39511] 
+
+Identifier:  GACAGGTGGAG
+Target_name:  [['FBtr0078047', 'FBtr0330673', 'FBtr0078049', 'FBtr0330674', 'FBtr0078048', 'FBtr0078050']]
+Target_start:  [3663, 3498, 3681, 3617, 3614, 3632]
+Query_start:  [38742] 
+
+Identifier:  CCGCCAGCTGC
+Target_name:  [['FBtr0078074']]
+Target_start:  [776]
+Query_start:  [92764] 
+
+Identifier:  GGAGGAACTGG
+Target_name:  [['FBtr0078154', 'FBtr0100379', 'FBtr0078153', 'FBtr0078155', 'FBtr0078144', 'FBtr0299837', 'FBtr0308253', 'FBtr0308254', 'FBtr0308255']]
+Target_start:  [2235, 2235, 2216, 2216, 4703, 4703, 4703, 4703, 4884]
+Query_start:  [2483] 
+
+Identifier:  CGCATGTGGAA
+Target_name:  [['FBtr0336969']]
+Target_start:  [1724]
+Query_start:  [28124] 
+
+Identifier:  TCCAGCTCGAG
+Target_name:  [['FBtr0091487', 'FBtr0091489', 'FBtr0332000', 'FBtr0091486']]
+Target_start:  [1401, 2189, 1401, 1493]
+Query_start:  [40785] 
+
+Identifier:  GTGATGGCAGC
+Target_name:  [['FBtr0078099']]
+Target_start:  [432]
+Query_start:  [47912] 
+
+Identifier:  TTCCCTAAAAG
+Target_name:  [['FBtr0306539', 'FBtr0306536', 'FBtr0306538', 'FBtr0078100', 'FBtr0306537']]
+Target_start:  [3357, 3244, 2967, 3244, 2993]
+Query_start:  [4902] 
+
+Identifier:  CCATATTTGGC
+Target_name:  [['FBtr0306539', 'FBtr0306536', 'FBtr0306538', 'FBtr0078100', 'FBtr0306537']]
+Target_start:  [2080, 1967, 1690, 1967, 1716]
+Query_start:  [66136] 
+
+Identifier:  GGCAACTAAAA
+Target_name:  [['FBtr0310023']]
+Target_start:  [1475]
+Query_start:  [21957] 
+
+Identifier:  GCTCTCGAGTC
+Target_name:  [['FBtr0077949']]
+Target_start:  [623]
+Query_start:  [17679] 
+
+Identifier:  TCAAATTCAAT
+Target_name:  [['FBtr0078083', 'FBtr0078084', 'FBtr0310030']]
+Target_start:  [1699, 2901, 2019]
+Query_start:  [20772] 
+
+Identifier:  TAAACTTTTCG
+Target_name:  [['FBtr0113008']]
+Target_start:  [974]
+Query_start:  [52993] 
+
+Identifier:  GAATACATACA
+Target_name:  [['FBtr0078170', 'FBtr0078171', 'FBtr0078166', 'FBtr0078167', 'FBtr0078168', 'FBtr0078169', 'FBtr0306589', 'FBtr0306590', 'FBtr0306591', 'FBtr0306592', 'FBtr0330655']]
+Target_start:  [214, 214, 215, 215, 215, 67, 215, 215, 215, 215, 215]
+Query_start:  [67157] 
+
+Identifier:  GGACAGCGGAT
+Target_name:  [['FBtr0336969', 'FBtr0077949', 'FBtr0305064']]
+Target_start:  [1252, 960, 601]
+Query_start:  [39512] 
+
+Identifier:  AAGTCGTTCTC
+Target_name:  [['FBtr0343219']]
+Target_start:  [131]
+Query_start:  [39067] 
+
+Identifier:  AATCCCTGTTC
+Target_name:  [['FBtr0345634', 'FBtr0332181']]
+Target_start:  [3584, 3584]
+Query_start:  [92385] 
+
+Identifier:  TGCGACCTGCG
+Target_name:  [['FBtr0336969']]
+Target_start:  [2341]
+Query_start:  [4181] 
+
+Identifier:  ATTATTCAAAT
+Target_name:  [['FBtr0078087', 'FBtr0331233']]
+Target_start:  [2466, 2405]
+Query_start:  [547] 
+
+Identifier:  AGCACATATTC
+Target_name:  [['FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121', 'FBtr0332337', 'FBtr0078123', 'FBtr0330653']]
+Target_start:  [9698, 9781, 12440, 9727, 9694, 9042, 9096, 8590]
+Query_start:  [2440] 
+
+Identifier:  CCTCAAATGAG
+Target_name:  [['FBtr0345453']]
+Target_start:  [389]
+Query_start:  [46438] 
+
+Identifier:  AGATATTTATT
+Target_name:  [['FBtr0306539', 'FBtr0078100', 'FBtr0306537', 'FBtr0078104', 'FBtr0330636']]
+Target_start:  [4021, 3908, 3657, 1508, 1146]
+Query_start:  [8036] 
+
+Identifier:  ATTCCAATCCG
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [179, 179]
+Query_start:  [10440] 
+
+Identifier:  GGGAAAGCTTT
+Target_name:  [['FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121', 'FBtr0332337', 'FBtr0078123', 'FBtr0330653']]
+Target_start:  [10915, 10998, 13657, 10944, 10911, 10259, 10313, 9807]
+Query_start:  [60204] 
+
+Identifier:  GAAAGCCAAAC
+Target_name:  [['FBtr0300689', 'FBtr0300690', 'FBtr0330654']]
+Target_start:  [1403, 1325, 1367]
+Query_start:  [14214] 
+
+Identifier:  CAATTATCATT
+Target_name:  [['FBtr0113008']]
+Target_start:  [1448]
+Query_start:  [64967] 
+
+Identifier:  CAAATAAAATC
+Target_name:  [['FBtr0077949']]
+Target_start:  [538]
+Query_start:  [17594] 
+
+Identifier:  TGCTGCTCCTG
+Target_name:  [['FBtr0078074']]
+Target_start:  [87]
+Query_start:  [92574] 
+
+Identifier:  TGGTGGTGCGG
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [1094, 735]
+Query_start:  [39646] 
+
+Identifier:  GCTCTGCCTGG
+Target_name:  [['FBtr0078033', 'FBtr0078032', 'FBtr0078031']]
+Target_start:  [567, 548, 671]
+Query_start:  [55847] 
+
+Identifier:  TTGTAAATAGA
+Target_name:  [['FBtr0343220', 'FBtr0343221']]
+Target_start:  [1968, 1968]
+Query_start:  [88739] 
+
+Identifier:  TGCTGGGACGC
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [3401, 3042]
+Query_start:  [45401] 
+
+Identifier:  TGCTGCTCCTT
+Target_name:  [['FBtr0091487', 'FBtr0091489', 'FBtr0332000', 'FBtr0091486']]
+Target_start:  [604, 1392, 604, 696]
+Query_start:  [92583] 
+
+Identifier:  CGCGAGCAGAA
+Target_name:  [['FBtr0336969']]
+Target_start:  [2329]
+Query_start:  [4169] 
+
+Identifier:  TGAGTAATATT
+Target_name:  [['FBtr0333408', 'FBtr0078084']]
+Target_start:  [1251, 1172]
+Query_start:  [43806] 
+
+Identifier:  GCAATTTGTGG
+Target_name:  [['FBtr0078045', 'FBtr0343249']]
+Target_start:  [7784, 7784]
+Query_start:  [57234] 
+
+Identifier:  AGAAGAAGATG
+Target_name:  [['FBtr0078144', 'FBtr0299837', 'FBtr0308253', 'FBtr0308254', 'FBtr0308255', 'FBtr0336969']]
+Target_start:  [6460, 6460, 6460, 6460, 6641, 1364]
+Query_start:  [3098] 
+
+Identifier:  GAAAAAAAGAT
+Target_name:  [['FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121', 'FBtr0332337', 'FBtr0078123', 'FBtr0330653', 'FBtr0310034']]
+Target_start:  [8367, 8450, 11109, 8396, 8363, 7711, 7765, 7259, 181]
+Query_start:  [52562] 
+
+Identifier:  GACAGAAAAAT
+Target_name:  [['FBtr0078145', 'FBtr0078144', 'FBtr0299837', 'FBtr0308253', 'FBtr0308254', 'FBtr0308255', 'FBtr0078031']]
+Target_start:  [7353, 17071, 17656, 17134, 16861, 16859, 168]
+Query_start:  [63851] 
+
+Identifier:  GTCAACTTCAA
+Target_name:  [['FBtr0078068', 'FBtr0332340']]
+Target_start:  [647, 647]
+Query_start:  [48112] 
+
+Identifier:  CTCCAAAAATA
+Target_name:  [['FBtr0078045', 'FBtr0343249']]
+Target_start:  [2017, 2017]
+Query_start:  [12586] 
+
+Identifier:  GCATGTAAACT
+Target_name:  [['FBtr0343780']]
+Target_start:  [1274]
+Query_start:  [32814] 
+
+Identifier:  GTTTTCATTTT
+Target_name:  [['FBtr0308246', 'FBtr0078146']]
+Target_start:  [1079, 1048]
+Query_start:  [13502] 
+
+Identifier:  GGAGCCCAAGG
+Target_name:  [['FBtr0078055']]
+Target_start:  [1207]
+Query_start:  [91961] 
+
+Identifier:  ATGTGTGTGCG
+Target_name:  [['FBtr0078064']]
+Target_start:  [1468]
+Query_start:  [72078] 
+
+Identifier:  CGGAATTTCAA
+Target_name:  [['FBtr0078103']]
+Target_start:  [5699]
+Query_start:  [72497] 
+
+Identifier:  GCGAGCAGAAC
+Target_name:  [['FBtr0336969']]
+Target_start:  [2330]
+Query_start:  [4170] 
+
+Identifier:  CTGCTCCACTG
+Target_name:  [['FBtr0340650', 'FBtr0078119', 'FBtr0077949', 'FBtr0305064']]
+Target_start:  [556, 436, 1069, 710]
+Query_start:  [39621] 
+
+Identifier:  ACGCCCTCTAT
+Target_name:  [['FBtr0336969']]
+Target_start:  [1454]
+Query_start:  [3188] 
+
+Identifier:  AGCAACTGGAG
+Target_name:  [['FBtr0343220', 'FBtr0343221']]
+Target_start:  [1362, 1362]
+Query_start:  [77813] 
+
+Identifier:  GAAAAAAAGAA
+Target_name:  [['FBtr0078047', 'FBtr0330673', 'FBtr0078049', 'FBtr0330674', 'FBtr0078048', 'FBtr0078050', 'FBtr0078083', 'FBtr0078084', 'FBtr0310030', 'FBtr0077999', 'FBtr0077999']]
+Target_start:  [2591, 2408, 2591, 2542, 2542, 2542, 1955, 3157, 2275, 813, 1035]
+Query_start:  [42588] 
+
+Identifier:  CAGCGAACAAA
+Target_name:  [['FBtr0302121', 'FBtr0302120', 'FBtr0302612', 'FBtr0078037']]
+Target_start:  [2232, 3075, 2607, 1764]
+Query_start:  [13679] 
+
+Identifier:  AGTGGTTTTCG
+Target_name:  [['FBtr0302120', 'FBtr0302612', 'FBtr0334763']]
+Target_start:  [337, 337, 337]
+Query_start:  [60105] 
+
+Identifier:  CCGGGCGAAAA
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [355, 355]
+Query_start:  [10610] 
+
+Identifier:  AAACGTGAAAA
+Target_name:  [['FBtr0308246', 'FBtr0078146']]
+Target_start:  [1199, 1168]
+Query_start:  [15668] 
+
+Identifier:  TTATATGTGCC
+Target_name:  [['FBtr0304343']]
+Target_start:  [39]
+Query_start:  [8706] 
+
+Identifier:  GGAACAGAAGG
+Target_name:  [['FBtr0078170', 'FBtr0078171', 'FBtr0078166', 'FBtr0078167', 'FBtr0078168', 'FBtr0078169', 'FBtr0306589', 'FBtr0306590', 'FBtr0306591', 'FBtr0306592', 'FBtr0330655']]
+Target_start:  [821, 964, 728, 803, 798, 655, 888, 752, 963, 1101, 963]
+Query_start:  [4821] 
+
+Identifier:  ACTCAACTCGC
+Target_name:  [['FBtr0309225', 'FBtr0309229', 'FBtr0309226']]
+Target_start:  [3011, 2882, 2760]
+Query_start:  [99949] 
+
+Identifier:  CGGCAGTTACA
+Target_name:  [['FBtr0078094', 'FBtr0078095', 'FBtr0330651']]
+Target_start:  [1173, 1124, 1106]
+Query_start:  [16889] 
+
+Identifier:  AAAATATGATT
+Target_name:  [['FBtr0078058']]
+Target_start:  [459]
+Query_start:  [66022] 
+
+Identifier:  ACCACCCACTC
+Target_name:  [['FBtr0302120', 'FBtr0302612', 'FBtr0334763']]
+Target_start:  [755, 755, 755]
+Query_start:  [49628] 
+
+Identifier:  GAAGGGAAAGG
+Target_name:  [['FBtr0330696']]
+Target_start:  [1743]
+Query_start:  [38575] 
+
+Identifier:  TGAGCGCGGAG
+Target_name:  [['FBtr0078041', 'FBtr0332974']]
+Target_start:  [792, 783]
+Query_start:  [42615] 
+
+Identifier:  TTGAAGAGCCG
+Target_name:  [['FBtr0078163', 'FBtr0078164', 'FBtr0113416', 'FBtr0309225', 'FBtr0309227', 'FBtr0309228', 'FBtr0309229', 'FBtr0309226']]
+Target_start:  [3211, 6088, 3208, 5011, 2778, 6127, 5866, 5444]
+Query_start:  [11927] 
+
+Identifier:  TAGAAAGTCAA
+Target_name:  [['FBtr0345634']]
+Target_start:  [6955]
+Query_start:  [84409] 
+
+Identifier:  TTGCAGGCGGC
+Target_name:  [['FBtr0078041', 'FBtr0332974']]
+Target_start:  [426, 426]
+Query_start:  [17467] 
+
+Identifier:  GCTCCACTGTG
+Target_name:  [['FBtr0336985']]
+Target_start:  [91]
+Query_start:  [39623] 
+
+Identifier:  TGTCTACGATG
+Target_name:  [['FBtr0336969']]
+Target_start:  [597]
+Query_start:  [2091] 
+
+Identifier:  GTTTGCAGTTT
+Target_name:  [['FBtr0078087', 'FBtr0331233']]
+Target_start:  [104, 104]
+Query_start:  [84751] 
+
+Identifier:  CTTGGTGTGCA
+Target_name:  [['FBtr0336969']]
+Target_start:  [423]
+Query_start:  [52934] 
+
+Identifier:  ATCGATATGCC
+Target_name:  [['FBtr0302121', 'FBtr0302120', 'FBtr0302612', 'FBtr0078037', 'FBtr0334763']]
+Target_start:  [1703, 2546, 2078, 1235, 2078]
+Query_start:  [68842] 
+
+Identifier:  AGGAAAGCAAG
+Target_name:  [['FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121', 'FBtr0332337', 'FBtr0078123', 'FBtr0330653']]
+Target_start:  [10849, 10932, 13591, 10878, 10845, 10193, 10247, 9741]
+Query_start:  [54819] 
+
+Identifier:  AAACACAAACT
+Target_name:  [['FBtr0078059', 'FBtr0329832']]
+Target_start:  [5551, 5333]
+Query_start:  [53235] 
+
+Identifier:  AAACGAAATTA
+Target_name:  [['FBtr0078144', 'FBtr0299837', 'FBtr0308253', 'FBtr0308254', 'FBtr0308255', 'FBtr0346726', 'FBtr0345634', 'FBtr0332181']]
+Target_start:  [5652, 5652, 5652, 5652, 5833, 72, 31, 31]
+Query_start:  [67966] 
+
+Identifier:  GAATATTGCAA
+Target_name:  [['FBtr0089437', 'FBtr0089429', 'FBtr0330656', 'FBtr0089430', 'FBtr0089431', 'FBtr0089433', 'FBtr0089434', 'FBtr0089435', 'FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121']]
+Target_start:  [2358, 2264, 2269, 2351, 2351, 2324, 2400, 2280, 316, 316, 316, 316, 316]
+Query_start:  [58111] 
+
+Identifier:  TGCAATAAATT
+Target_name:  [['FBtr0089437', 'FBtr0089429', 'FBtr0330656', 'FBtr0089430', 'FBtr0089431', 'FBtr0089433', 'FBtr0089434', 'FBtr0089435']]
+Target_start:  [2364, 2270, 2275, 2357, 2357, 2330, 2406, 2286]
+Query_start:  [78694] 
+
+Identifier:  GGTTCCTCCTC
+Target_name:  [['FBtr0336969']]
+Target_start:  [2878]
+Query_start:  [4789] 
+
+Identifier:  TAAATATCCAA
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [3691, 3332]
+Query_start:  [45705] 
+
+Identifier:  TATTTATGATT
+Target_name:  [['FBtr0078170', 'FBtr0078171', 'FBtr0078166', 'FBtr0078167', 'FBtr0078168', 'FBtr0078169', 'FBtr0306589', 'FBtr0306590', 'FBtr0306591', 'FBtr0306592', 'FBtr0330655']]
+Target_start:  [4133, 4276, 4040, 4115, 4110, 3967, 4200, 4064, 4275, 4413, 4166]
+Query_start:  [4941] 
+
+Identifier:  CAAGCAGCGAC
+Target_name:  [['FBtr0310028', 'FBtr0078082', 'FBtr0078081', 'FBtr0310029', 'FBtr0077949', 'FBtr0305064']]
+Target_start:  [239, 268, 239, 235, 3699, 3340]
+Query_start:  [45713] 
+
+Identifier:  ATTGCGGAGCC
+Target_name:  [['FBtr0078045', 'FBtr0343249']]
+Target_start:  [11631, 11631]
+Query_start:  [77089] 
+
+Identifier:  ATAATCTCGTT
+Target_name:  [['FBtr0302194', 'FBtr0302196', 'FBtr0302195']]
+Target_start:  [953, 953, 953]
+Query_start:  [82830] 
+
+Identifier:  AGGAAAAACTT
+Target_name:  [['FBtr0078126', 'FBtr0078096']]
+Target_start:  [1068, 2052]
+Query_start:  [47969] 
+
+Identifier:  CAGTAATAAAT
+Target_name:  [['FBtr0332339']]
+Target_start:  [3108]
+Query_start:  [99854] 
+
+Identifier:  CGCACAGTCGC
+Target_name:  [['FBtr0078163', 'FBtr0078164', 'FBtr0113416', 'FBtr0309225', 'FBtr0309227', 'FBtr0309228', 'FBtr0309229']]
+Target_start:  [21, 21, 21, 21, 21, 21, 21]
+Query_start:  [32970] 
+
+Identifier:  TGTAGTGTAAG
+Target_name:  [['FBtr0308305']]
+Target_start:  [764]
+Query_start:  [87538] 
+
+Identifier:  GTTAAGTGTTT
+Target_name:  [['FBtr0308091']]
+Target_start:  [824]
+Query_start:  [33490] 
+
+Identifier:  TTCTGTCAACG
+Target_name:  [['FBtr0306541']]
+Target_start:  [496]
+Query_start:  [16347] 
+
+Identifier:  CGCAGTCCTGG
+Target_name:  [['FBtr0336969']]
+Target_start:  [1064]
+Query_start:  [2734] 
+
+Identifier:  ATTTCATTTGA
+Target_name:  [['FBtr0336989', 'FBtr0078140', 'FBtr0078141']]
+Target_start:  [189, 116, 143]
+Query_start:  [93322] 
+
+Identifier:  GCTCGATGCGA
+Target_name:  [['FBtr0343219']]
+Target_start:  [414]
+Query_start:  [94512] 
+
+Identifier:  AAACTACGAAA
+Target_name:  [['FBtr0078153', 'FBtr0078155', 'FBtr0302121', 'FBtr0302120', 'FBtr0302612', 'FBtr0078037']]
+Target_start:  [45, 45, 3103, 3946, 3478, 2635]
+Query_start:  [42561] 
+
+Identifier:  CTTTTGGACAA
+Target_name:  [['FBtr0091487', 'FBtr0091489', 'FBtr0332000', 'FBtr0091486']]
+Target_start:  [366, 1154, 366, 458]
+Query_start:  [67063] 
+
+Identifier:  CGGATGTGCAC
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [2603, 2244]
+Query_start:  [41367] 
+
+Identifier:  CGAAGTGCTCC
+Target_name:  [['FBtr0078090']]
+Target_start:  [515]
+Query_start:  [92872] 
+
+Identifier:  CCTGCCCAGCG
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [2304, 1945]
+Query_start:  [54575] 
+
+Identifier:  ACCGGCATTCC
+Target_name:  [['FBtr0336969']]
+Target_start:  [439]
+Query_start:  [1933] 
+
+Identifier:  AAAACGGATTC
+Target_name:  [['FBtr0305507']]
+Target_start:  [1582]
+Query_start:  [51129] 
+
+Identifier:  CGGGACGAGGA
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [2455, 2096]
+Query_start:  [41157] 
+
+Identifier:  GGCGATACGAG
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [2543, 2184]
+Query_start:  [41307] 
+
+Identifier:  AGTTTTCCAGC
+Target_name:  [['FBtr0308246', 'FBtr0078146']]
+Target_start:  [534, 503]
+Query_start:  [97589] 
+
+Identifier:  TAAATTTATGT
+Target_name:  [['FBtr0078127']]
+Target_start:  [2259]
+Query_start:  [67665] 
+
+Identifier:  CCGATAAAGAA
+Target_name:  [['FBtr0089488']]
+Target_start:  [4378]
+Query_start:  [46142] 
+
+Identifier:  AGTGTGTTGTG
+Target_name:  [['FBtr0344052', 'FBtr0344053']]
+Target_start:  [197, 85]
+Query_start:  [38188] 
+
+Identifier:  TTGCCCAACTT
+Target_name:  [['FBtr0343253']]
+Target_start:  [1181]
+Query_start:  [13246] 
+
+Identifier:  AAGAGGAGAGG
+Target_name:  [['FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121', 'FBtr0332337', 'FBtr0078123', 'FBtr0330653']]
+Target_start:  [9509, 9592, 12251, 9538, 9505, 8853, 8907, 8401]
+Query_start:  [45601] 
+
+Identifier:  CGAACTTTGGT
+Target_name:  [['FBtr0306540', 'FBtr0078101', 'FBtr0302164', 'FBtr0331680', 'FBtr0301733']]
+Target_start:  [606, 1017, 634, 712, 870]
+Query_start:  [25711] 
+
+Identifier:  TCTTTGCTCAT
+Target_name:  [['FBtr0078074']]
+Target_start:  [840]
+Query_start:  [53077] 
+
+Identifier:  AAATAAACTTC
+Target_name:  [['FBtr0308305', 'FBtr0078011']]
+Target_start:  [234, 1221]
+Query_start:  [59600] 
+
+Identifier:  GATGCGCGGTC
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [1398, 1039]
+Query_start:  [39950] 
+
+Identifier:  GTGCAACGCAT
+Target_name:  [['FBtr0078043', 'FBtr0301317']]
+Target_start:  [232, 344]
+Query_start:  [59036] 
+
+Identifier:  ACTTTGACTTT
+Target_name:  [['FBtr0078009']]
+Target_start:  [1370]
+Query_start:  [84458] 
+
+Identifier:  TCTCAATAATT
+Target_name:  [['FBtr0332972']]
+Target_start:  [2019]
+Query_start:  [5732] 
+
+Identifier:  ATCAGCAGGTC
+Target_name:  [['FBtr0078038', 'FBtr0077949', 'FBtr0305064']]
+Target_start:  [94, 2639, 2280]
+Query_start:  [44341] 
+
+Identifier:  CAGCAGAAAAG
+Target_name:  [['FBtr0078145', 'FBtr0078144', 'FBtr0299837', 'FBtr0308253', 'FBtr0308254', 'FBtr0308255']]
+Target_start:  [1181, 10899, 11484, 10962, 10689, 10687]
+Query_start:  [48953] 
+
+Identifier:  TTAATGAAAAA
+Target_name:  [['FBtr0078164', 'FBtr0309228']]
+Target_start:  [3925, 3964]
+Query_start:  [52021] 
+
+Identifier:  CCTGGGTGCTT
+Target_name:  [['FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0330653']]
+Target_start:  [16526, 16609, 19268, 16555, 15418]
+Query_start:  [58879] 
+
+Identifier:  GCATTTGAAGC
+Target_name:  [['FBtr0310028']]
+Target_start:  [793]
+Query_start:  [34452] 
+
+Identifier:  CCCGTGGCTGA
+Target_name:  [['FBtr0336969']]
+Target_start:  [1531]
+Query_start:  [3265] 
+
+Identifier:  AAAGCAAATGT
+Target_name:  [['FBtr0091612']]
+Target_start:  [414]
+Query_start:  [72908] 
+
+Identifier:  GGAGCAGAAGA
+Target_name:  [['FBtr0078131', 'FBtr0342660', 'FBtr0078039']]
+Target_start:  [650, 374, 490]
+Query_start:  [69584] 
+
+Identifier:  TGAAAATCAAT
+Target_name:  [['FBtr0306541']]
+Target_start:  [1316]
+Query_start:  [74926] 
+
+Identifier:  GGCAGCCGTGT
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [3681, 3322]
+Query_start:  [45695] 
+
+Identifier:  AATGGCAGAGA
+Target_name:  [['FBtr0078126']]
+Target_start:  [609]
+Query_start:  [15066] 
+
+Identifier:  GACCAAGTTCA
+Target_name:  [['FBtr0078145', 'FBtr0078144', 'FBtr0299837', 'FBtr0308253', 'FBtr0308254', 'FBtr0308255', 'FBtr0336969']]
+Target_start:  [648, 10366, 10951, 10429, 10156, 10154, 389]
+Query_start:  [1711] 
+
+Identifier:  ACAACACAGGC
+Target_name:  [['FBtr0301316']]
+Target_start:  [272]
+Query_start:  [97692] 
+
+Identifier:  ATCCTCGAGGA
+Target_name:  [['FBtr0078008']]
+Target_start:  [210]
+Query_start:  [20639] 
+
+Identifier:  CAATATATAAA
+Target_name:  [['FBtr0078068', 'FBtr0332340']]
+Target_start:  [4132, 4132]
+Query_start:  [65913] 
+
+Identifier:  CAGGATCCCAG
+Target_name:  [['FBtr0343253']]
+Target_start:  [1057]
+Query_start:  [60618] 
+
+Identifier:  GAGACAATAAT
+Target_name:  [['FBtr0301733']]
+Target_start:  [8]
+Query_start:  [57715] 
+
+Identifier:  GACCTGCATCT
+Target_name:  [['FBtr0333012', 'FBtr0333013', 'FBtr0310027', 'FBtr0078063', 'FBtr0329895']]
+Target_start:  [2927, 4769, 3339, 3409, 3139]
+Query_start:  [81305] 
+
+Identifier:  CAAAGGACCAA
+Target_name:  [['FBtr0310035', 'FBtr0310034']]
+Target_start:  [5819, 6464]
+Query_start:  [56244] 
+
+Identifier:  ATTGATTTTGC
+Target_name:  [['FBtr0302164', 'FBtr0331680']]
+Target_start:  [40, 40]
+Query_start:  [53673] 
+
+Identifier:  CCACTTTTCCG
+Target_name:  [['FBtr0078045', 'FBtr0343249', 'FBtr0334793']]
+Target_start:  [8086, 8086, 28]
+Query_start:  [94681] 
+
+Identifier:  CTGCGACCTGC
+Target_name:  [['FBtr0336969']]
+Target_start:  [2340]
+Query_start:  [4180] 
+
+Identifier:  GAAATTATTTG
+Target_name:  [['FBtr0078160']]
+Target_start:  [227]
+Query_start:  [20553] 
+
+Identifier:  CGAAGGGTAAA
+Target_name:  [['FBtr0078059', 'FBtr0329832']]
+Target_start:  [5409, 5191]
+Query_start:  [88474] 
+
+Identifier:  CTTGCCGCTGC
+Target_name:  [['FBtr0343253']]
+Target_start:  [2309]
+Query_start:  [59087] 
+
+Identifier:  GCCAGCGGCGC
+Target_name:  [['FBtr0302121', 'FBtr0302120', 'FBtr0302612', 'FBtr0078037']]
+Target_start:  [2143, 2986, 2518, 1675]
+Query_start:  [92087] 
+
+Identifier:  TGGAAACCTAC
+Target_name:  [['FBtr0336969']]
+Target_start:  [848]
+Query_start:  [2461] 
+
+Identifier:  TAATAAATTGT
+Target_name:  [['FBtr0078170', 'FBtr0078171', 'FBtr0078166', 'FBtr0078167', 'FBtr0078168', 'FBtr0078169', 'FBtr0306589', 'FBtr0306590', 'FBtr0306591', 'FBtr0306592', 'FBtr0330655']]
+Target_start:  [4359, 4502, 4266, 4341, 4336, 4193, 4426, 4290, 4501, 4639, 4392]
+Query_start:  [64059] 
+
+Identifier:  ATGAGAACTAC
+Target_name:  [['FBtr0333012', 'FBtr0333013', 'FBtr0310027', 'FBtr0078063', 'FBtr0329895']]
+Target_start:  [2302, 4144, 2714, 2784, 2514]
+Query_start:  [31792] 
+
+Identifier:  AGCCCAACCAC
+Target_name:  [['FBtr0336969']]
+Target_start:  [494]
+Query_start:  [1988] 
+
+Identifier:  GGGAAAATCAA
+Target_name:  [['FBtr0078038']]
+Target_start:  [1039]
+Query_start:  [17907] 
+
+Identifier:  TGTCCTGCCCG
+Target_name:  [['FBtr0078045', 'FBtr0343249']]
+Target_start:  [6179, 6179]
+Query_start:  [78198] 
+
+Identifier:  TTAATGCCAGC
+Target_name:  [['FBtr0078045', 'FBtr0343249']]
+Target_start:  [3982, 3982]
+Query_start:  [98913] 
+
+Identifier:  CGAGCAAATAA
+Target_name:  [['FBtr0078008']]
+Target_start:  [245]
+Query_start:  [7855] 
+
+Identifier:  GCAGCAGTGGC
+Target_name:  [['FBtr0078058']]
+Target_start:  [1149]
+Query_start:  [69527] 
+
+Identifier:  AACTCAACTCG
+Target_name:  [['FBtr0309225', 'FBtr0309229', 'FBtr0309226']]
+Target_start:  [3010, 2881, 2759]
+Query_start:  [99948] 
+
+Identifier:  GCGGATCGGCG
+Target_name:  [['FBtr0077949', 'FBtr0305064']]
+Target_start:  [2967, 2608]
+Query_start:  [44735] 
+
+Identifier:  GTGCATTATTT
+Target_name:  [['FBtr0078039']]
+Target_start:  [1204]
+Query_start:  [30537] 
+
+Identifier:  GTCCACAGGTG
+Target_name:  [['FBtr0336969']]
+Target_start:  [1976]
+Query_start:  [3762] 
+
+Identifier:  GATGGGGAAAA
+Target_name:  [['FBtr0078096']]
+Target_start:  [85]
+Query_start:  [33795] 
+
+Identifier:  CCTGGCTGGGG
+Target_name:  [['FBtr0077949']]
+Target_start:  [737]
+Query_start:  [17828] 
+
+Identifier:  GTGATGCAACT
+Target_name:  [['FBtr0078045', 'FBtr0343249']]
+Target_start:  [5662, 5662]
+Query_start:  [96958] 
+
+Identifier:  TGGCGTCCGCT
+Target_name:  [['FBtr0078122', 'FBtr0306341', 'FBtr0330652', 'FBtr0332336', 'FBtr0078121', 'FBtr0332337', 'FBtr0078123', 'FBtr0330653']]
+Target_start:  [3733, 3816, 6475, 3816, 3729, 3131, 3131, 2625]
+Query_start:  [92332] 
+
+Identifier:  CAACCAAATCG
+Target_name:  [['FBtr0344052', 'FBtr0344053']]
+Target_start:  [2717, 2605]
+Query_start:  [31618] 
+
+Identifier:  GTGGGCGTGGA
+Target_name:  [['FBtr0343785', 'FBtr0308257', 'FBtr0343787', 'FBtr0301439', 'FBtr0078001', 'FBtr0343786', 'FBtr0346526']]
+Target_start:  [1468, 1207, 1207, 943, 943, 943, 943]
+Query_start:  [23839] 
+
+Identifier:  GCATTTTGGCA
+Target_name:  [['FBtr0078147', 'FBtr0343250']]
+Target_start:  [323, 98]
+Query_start:  [94436] 
+
+Identifier:  GTGGGCGTGGC
+Target_name:  [['FBtr0310023']]
+Target_start:  [976]
+Query_start:  [61034] 
+
+Identifier:  GACTTTGCCGC
+Target_name:  [['FBtr0336969']]
+Target_start:  [1129]
+Query_start:  [2799] 
+
+Identifier:  CATCGATTTCA
+Target_name:  [['FBtr0345634']]
+Target_start:  [7052]
+Query_start:  [66246] 
+
+Identifier:  GTTATTTTTAC
+Target_name:  [['FBtr0300689', 'FBtr0300690', 'FBtr0330654']]
+Target_start:  [1717, 1639, 1681]
+Query_start:  [62534] 
+
+Identifier:  GACTGGCCATT
+Target_name:  [['FBtr0309810', 'FBtr0078136', 'FBtr0113009', 'FBtr0343778', 'FBtr0078135']]
+Target_start:  [1332, 616, 730, 676, 547]
+Query_start:  [60330] 
+
+Identifier:  CCAATCTGGGC
+Target_name:  [['FBtr0078066']]
+Target_start:  [145]
+Query_start:  [45377] 
+
+Identifier:  GAAGAGCAGCT
+Target_name:  [['FBtr0302194', 'FBtr0302196', 'FBtr0302195']]
+Target_start:  [236, 236, 236]
+Query_start:  [24987] 
+
