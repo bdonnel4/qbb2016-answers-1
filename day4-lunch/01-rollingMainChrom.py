@@ -34,8 +34,9 @@ def rolling_mean(file1, file2, window_size):
         
     
         plt.figure()
-        plt.plot(mean1)
-        plt.plot(mean2)
+        plt.plot(mean1, label="Sample1")
+        plt.plot(mean2, label="Sample2")
+        plt.legend(loc="upper right")
         plt.title("Chromosome {}, FPKM rolling mean (size={})".format(i,window_size) )
         plt.savefig("Chromosome_{}.png".format(i))
         plt.close()
