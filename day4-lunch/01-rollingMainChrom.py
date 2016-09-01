@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 
+"""
+Plots rolling mean FPKM for two ctab files.
+
+Usage: ./01-rollingMainChrom.py ctab1 ctab2 window size
+window size example: 200
+"""
+
 import sys
 import pandas as pd
 import matplotlib.pyplot as plt

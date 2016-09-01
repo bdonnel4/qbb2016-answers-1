@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
 """
+Create a boxplot for all Sxl transcripts with an FPKM > 0 in two ctab files. Boxplot y axis
+results in log fashion, with each ctab sample as one box.
 
+Usage: ./00-boxplotSxl.py ctab1 ctab2
 """
 
 import sys
