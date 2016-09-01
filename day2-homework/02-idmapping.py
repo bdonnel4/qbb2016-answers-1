@@ -4,7 +4,7 @@ import sys
 
 mapping = {}
 
-def id_mapping(mapfile, c_tab, arg3):
+def id_mapping(mapfile, c_tab, mode):
     for line in mapfile:
         fields = line.rstrip( "\r\n").split()
         swiss_AC = fields[0]
@@ -18,7 +18,7 @@ def id_mapping(mapfile, c_tab, arg3):
         if gene_name in mapping:
             fields2[8] = mapping[gene_name]
             print "\t".join(fields2)
-        elif arg3 =="d":
+        elif mode =="d":
             fields2[8] = "."
             print "\t".join(fields2)
         else:
