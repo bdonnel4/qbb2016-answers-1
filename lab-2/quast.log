@@ -1,0 +1,169 @@
+/usr/local/Cellar/quast/4.2/quast.py -R reference.fasta -o /Users/cmdb/qbb2016-answers/lab-2/ contigs/contigs1.fasta contigs/contigs2.fasta contigs/contigs3.fasta
+
+Version: 4.2, build 21.07.2016 14:03
+
+System information:
+  OS: Darwin-15.6.0-x86_64-i386-64bit (macosx)
+  Python version: 2.7.12
+  CPUs number: 4
+
+Started: 2016-09-23 13:56:02
+
+Logging to /Users/cmdb/qbb2016-answers/lab-2/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+NOTICE: Maximum number of threads is set to 1 (use --threads option to set it manually)
+
+Main parameters: 
+  Threads: 1, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  reference.fasta ==> reference
+
+Contigs:
+  1  contigs/contigs1.fasta ==> contigs1
+  2  contigs/contigs2.fasta ==> contigs2
+  3  contigs/contigs3.fasta ==> contigs3
+
+2016-09-23 13:56:04
+Running Basic statistics processor...
+  Reference genome:
+    reference.fasta, Reference length = 4639675, Reference GC % = 50.79
+  Contig files: 
+    1  contigs1
+    2  contigs2
+    3  contigs3
+  Calculating N50 and L50...
+    1  contigs1, N50 = 718, L50 = 8, Total length = 15923, GC % = 51.21, # N's per 100 kbp =  0.00
+    2  contigs2, N50 = 100000, L50 = 1, Total length = 100000, GC % = 52.59, # N's per 100 kbp =  0.00
+    3  contigs3, N50 = 632, L50 = 5, Total length = 7243, GC % = 50.71, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/basic_stats/GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/basic_stats/coverage_histogram.pdf
+  Drawing contigs1 coverage histogram (bin size: 1x)...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/basic_stats/contigs1_coverage_histogram.pdf
+  Drawing contigs2 coverage histogram (bin size: 1x)...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/basic_stats/contigs2_coverage_histogram.pdf
+  Drawing contigs3 coverage histogram (bin size: 1x)...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/basic_stats/contigs3_coverage_histogram.pdf
+Done.
+
+2016-09-23 13:56:06
+Running Contig analyzer...
+  1  contigs1
+  1  Logging to files /Users/cmdb/qbb2016-answers/lab-2/contigs_reports/contigs_report_contigs1.stdout and contigs_report_contigs1.stderr...
+  1  Aligning contigs to the reference
+  1  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/nucmer -c 65 -l 65 --maxmatch \
+     -p contigs_reports/nucmer_output/contigs1 quast_corrected_input/reference.fasta \
+     quast_corrected_input/contigs1.fasta >> contigs_reports/contigs_report_contigs1.stdout \
+     2>> contigs_reports/contigs_report_contigs1.stderr
+  1  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/delta-filter -i 95.0 -l 0 contigs_reports/nucmer_output/contigs1.delta \
+     > contigs_reports/nucmer_output/contigs1.fdelta 2> contigs_reports/contigs_report_contigs1.stderr
+  1  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/show-coords contigs_reports/nucmer_output/contigs1.delta \
+     > contigs_reports/nucmer_output/contigs1.coords_tmp 2> contigs_reports/contigs_report_contigs1.stderr
+  1  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/show-snps -S -T -H contigs_reports/nucmer_output/contigs1.delta \
+     < contigs_reports/nucmer_output/contigs1.coords.headless > contigs_reports/nucmer_output/contigs1.all_snps \
+     2> contigs_reports/contigs_report_contigs1.stderr
+  1  Alignments: contigs_reports/alignments_contigs1.tsv
+  1  Analysis is finished.
+
+  2  contigs2
+  2  Logging to files /Users/cmdb/qbb2016-answers/lab-2/contigs_reports/contigs_report_contigs2.stdout and contigs_report_contigs2.stderr...
+  2  Aligning contigs to the reference
+  2  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/nucmer -c 65 -l 65 --maxmatch \
+     -p contigs_reports/nucmer_output/contigs2 quast_corrected_input/reference.fasta \
+     quast_corrected_input/contigs2.fasta >> contigs_reports/contigs_report_contigs2.stdout \
+     2>> contigs_reports/contigs_report_contigs2.stderr
+  2  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/delta-filter -i 95.0 -l 0 contigs_reports/nucmer_output/contigs2.delta \
+     > contigs_reports/nucmer_output/contigs2.fdelta 2> contigs_reports/contigs_report_contigs2.stderr
+  2  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/show-coords contigs_reports/nucmer_output/contigs2.delta \
+     > contigs_reports/nucmer_output/contigs2.coords_tmp 2> contigs_reports/contigs_report_contigs2.stderr
+  2  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/show-snps -S -T -H contigs_reports/nucmer_output/contigs2.delta \
+     < contigs_reports/nucmer_output/contigs2.coords.headless > contigs_reports/nucmer_output/contigs2.all_snps \
+     2> contigs_reports/contigs_report_contigs2.stderr
+  2  Alignments: contigs_reports/alignments_contigs2.tsv
+  2  Analysis is finished.
+
+  3  contigs3
+  3  Logging to files /Users/cmdb/qbb2016-answers/lab-2/contigs_reports/contigs_report_contigs3.stdout and contigs_report_contigs3.stderr...
+  3  Aligning contigs to the reference
+  3  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/nucmer -c 65 -l 65 --maxmatch \
+     -p contigs_reports/nucmer_output/contigs3 quast_corrected_input/reference.fasta \
+     quast_corrected_input/contigs3.fasta >> contigs_reports/contigs_report_contigs3.stdout \
+     2>> contigs_reports/contigs_report_contigs3.stderr
+  3  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/delta-filter -i 95.0 -l 0 contigs_reports/nucmer_output/contigs3.delta \
+     > contigs_reports/nucmer_output/contigs3.fdelta 2> contigs_reports/contigs_report_contigs3.stderr
+  3  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/show-coords contigs_reports/nucmer_output/contigs3.delta \
+     > contigs_reports/nucmer_output/contigs3.coords_tmp 2> contigs_reports/contigs_report_contigs3.stderr
+  3  /usr/local/Cellar/quast/4.2/libs/MUMmer3.23-osx/show-snps -S -T -H contigs_reports/nucmer_output/contigs3.delta \
+     < contigs_reports/nucmer_output/contigs3.coords.headless > contigs_reports/nucmer_output/contigs3.all_snps \
+     2> contigs_reports/contigs_report_contigs3.stderr
+  3  Alignments: contigs_reports/alignments_contigs3.tsv
+  3  Analysis is finished.
+
+  Creating total report...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/contigs_reports/misassemblies_plot.pdf
+Done.
+
+2016-09-23 13:56:19
+Running NA-NGA calculation...
+  1  contigs1, Largest alignment = 1737, NA50 = 715, LA50 = 8
+  2  contigs2, Largest alignment = 100000, NA50 = 100000, LA50 = 1
+  3  contigs3, Largest alignment = 998, NA50 = 632, LA50 = 5
+  Drawing cumulative plot...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/aligned_stats/NGAx_plot.pdf
+Done.
+
+2016-09-23 13:56:20
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  1  contigs1
+  1  Analysis is finished.
+  2  contigs2
+  2  Analysis is finished.
+  3  contigs3
+  3  Analysis is finished.
+  Drawing Genome fraction, % histogram...
+    saved to /Users/cmdb/qbb2016-answers/lab-2/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2016-09-23 13:56:23
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2016-09-23 13:56:26
+RESULTS:
+  Text versions of total report are saved to /Users/cmdb/qbb2016-answers/lab-2/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /Users/cmdb/qbb2016-answers/lab-2/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /Users/cmdb/qbb2016-answers/lab-2/report.html
+  PDF version (tables and plots) is saved to /Users/cmdb/qbb2016-answers/lab-2/report.pdf
+  Icarus (contig browser) is saved to /Users/cmdb/qbb2016-answers/lab-2/icarus.html
+  Log saved to /Users/cmdb/qbb2016-answers/lab-2/quast.log
+
+Finished: 2016-09-23 13:56:26
+Elapsed time: 0:00:23.717248
+NOTICEs: 5; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
