@@ -1,0 +1,33 @@
+Fri Sep 23 12:55:03 2016
+ velveth velveth_high_out 27 -shortPaired -fastq -separate reads_1.fastq reads_2.fastq
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Fri Sep 23 13:01:09 2016
+ velveth velveth_high_out 27 -shortPaired -fastq -separate reads_1.fastq reads_2.fastq
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Fri Sep 23 13:01:12 2016
+ velvetg velveth_high_out -ins_length 1000 -exp_cov 0.052
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+

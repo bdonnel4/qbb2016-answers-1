@@ -1,0 +1,92 @@
+Fri Sep 23 12:37:11 2016
+ velveth velveth_high_out 27 -fastq -shortPaired reads_1.fastq reads_2.fastq
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Fri Sep 23 12:38:52 2016
+ velvetg velveth_high_out -ins_length 1000 -exp_cov 0.052
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Final graph has 53 nodes and n50 of 19837, max 33179, total 100078, using 611321/612348 reads
+Fri Sep 23 12:55:26 2016
+ velveth velveth_high_out 27 -shortPaired -fastq -separate reads_1.fastq reads_2.fastq
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Fri Sep 23 12:56:00 2016
+ velvetg velveth_high_out -ins_length 1000 -exp_cov 0.052
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Final graph has 55 nodes and n50 of 19837, max 33179, total 100078, using 611310/612348 reads
+Fri Sep 23 13:01:53 2016
+ velveth velveth_high_out 27 -shortPaired -fastq -separate reads_1.fastq reads_2.fastq
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Fri Sep 23 13:02:08 2016
+ velvetg velveth_high_out -ins_length 1000 -exp_cov 0.052
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Final graph has 55 nodes and n50 of 19837, max 33179, total 100078, using 611310/612348 reads
+Fri Sep 23 13:03:17 2016
+ velveth velveth_high_out 31 -shortPaired -fastq -separate reads_1.fastq reads_2.fastq
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Fri Sep 23 13:03:50 2016
+ velvetg velveth_high_out
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+LONGSEQUENCES
+
+Final graph has 40 nodes and n50 of 19881, max 33205, total 100108, using 0/612348 reads
